@@ -25,11 +25,11 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "~4",
-        "illuminate/config": "~4",
-        "illuminate/container": "~4",
+        "illuminate/support": "*",
+        "illuminate/config": "*",
+        "illuminate/container": "*",
         "guzzle/guzzle": "3.8.1",
-        "doctrine/inflector": "1.0",
+        "doctrine/inflector": "*",
         "patchwork/utf8": "1.1.*"
     },
     "require-dev": {
